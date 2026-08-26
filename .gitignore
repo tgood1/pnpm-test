@@ -1,0 +1,6 @@
+node_modules
+/bazel-*
+.bazelignore
+*.bazel
+*.bazel.lock
+.bazelrc
